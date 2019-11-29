@@ -1,7 +1,7 @@
 .. _index:
 
 ========================
-SQL-99 Complete, Really
+SQL-99 Complete Ref, Really
 ========================
 
 .. rubric:: Table of Contents
